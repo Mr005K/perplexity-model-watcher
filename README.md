@@ -32,6 +32,12 @@
 
 ---
 
+## 💡 Userscript
+
+Prefer a lightweight script manager instead of a browser extension? Import [`userscript.user.js`](userscript.user.js) into Tampermonkey, Violentmonkey, or a compatible userscript manager and enable it for `perplexity.ai`. The userscript injects the same in-page overlay and model matcher logic without needing extension permissions. Toolbar badges are extension-only, so the userscript focuses on the overlay experience.
+
+---
+
 ## ⚙️ Options
 
 - Toggle the in‑page overlay from the Options page.
